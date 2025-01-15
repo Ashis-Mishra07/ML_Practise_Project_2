@@ -1,1 +1,50 @@
-# cceckrece
+We will learn methods to scrap images from the google .
+
+OpenCV is one of the image processing library .
+ 
+Weblet tranform to train SVM classifier or Logistic classifier .
+
+SVM -> alternate is Neural Network
+
+# NOTE: 
+The Bangalore project is a regression project and here it is 
+a classifier project . 
+
+Data Collection Aspect:
+       When doing supervise learning u need a lot of data . And for recognising any data
+       u need to have more images to trains and  for visualise it more .
+
+       1. one way is to download images from google.
+       2. python and web scrabbing
+       3. fatkun chrome tool
+       4. buy data from vendors
+
+
+# Data Cleaning
+1. The first way will be detecting the face of the person if it is not that clean then zooming it to eye level then match , if still not then discard the project , use of OpenCV (technique is hard cascade ) .
+
+2. 80 to 90 percent of the data can be cleaned by the python methods but some 10 to 20 percent , we have to apply manual methods to do it so .
+
+3. Process will be
+   Raw Images -> Cropped Images (2 eyes) -> Manual data cleaning -> Wavelet transformed Image() -> train model -> hypertune it 
+
+3. pyhton flask server then do the backend and frontend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
