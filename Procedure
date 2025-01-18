@@ -45,6 +45,18 @@ Data Collection Aspect:
 
 
 
+The basic working is the ui file will take a image and it will convert it into utf base-64  encoding and then after encoding it is send to backend and the flask server will do its job match the images with its test set and say out the result .
+
+
+
+
+
+
+
+
+
+
+
 
 
 
